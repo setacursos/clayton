@@ -15,7 +15,7 @@
       }
 
       .btn {
-        background-color: #4CAF50;
+        background-color: #1053a0;
         border: none;
         color: white;
         padding: 15px 32px;
@@ -82,7 +82,7 @@
   .testimonials blockquote {
     margin: 0;
     padding: 10px;
-    background-color: rgba(233, 207, 207, 0.801);
+    background-color: #1053a0;
     border-left: 5px solid #ccc;
     color:black;
   }
@@ -90,6 +90,7 @@
   .testimonials blockquote p {
     margin: 0;
     font-style: italic;
+    color:white;
   }
   
   .testimonials blockquote cite {
@@ -97,6 +98,7 @@
     margin-top: 5px;
     font-size: 80%;
     font-weight: bold;
+    color:white;
   }
 /*   .media-grid {
     display: grid;
